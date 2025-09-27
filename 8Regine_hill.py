@@ -2,6 +2,8 @@ from ipycanvas import Canvas, hold_canvas
 import ipywidgets as W
 from google.colab import output
 import random
+from IPython.display import display
+
 
 # -----------------------------
 # Config
