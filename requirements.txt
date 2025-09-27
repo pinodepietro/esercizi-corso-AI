@@ -1,1 +1,3 @@
-!pip -q install ipywidgets ipycanvasfrom google.colab import outputoutput.enable_custom_widget_manager()print("OK")
+ipywidgets
+ipycanvas
+
