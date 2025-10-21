@@ -13,7 +13,7 @@ CELL = 64
 WIDTH = HEIGHT = N * CELL
 
 # Numero massimo di mosse laterali (h uguale). Metti 0 per hill climbing puro.
-SIDEWAYS_MAX = 30
+SIDEWAYS_MAX = 3
 
 # -----------------------------
 # Stato
